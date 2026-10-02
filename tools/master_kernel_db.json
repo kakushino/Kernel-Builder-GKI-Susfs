@@ -2011,6 +2011,21 @@
       "kernel": "5.15.217",
       "date": "lts",
       "android_version": "android13"
+    },
+    {
+      "kernel": "5.15.218",
+      "date": "lts",
+      "android_version": "android13"
+    },
+    {
+      "kernel": "5.15.219",
+      "date": "lts",
+      "android_version": "android13"
+    },
+    {
+      "kernel": "5.15.220",
+      "date": "lts",
+      "android_version": "android13"
     }
   ],
   "6.1": [
@@ -3320,6 +3335,11 @@
       "kernel": "6.6.143",
       "date": "lts",
       "android_version": "android15"
+    },
+    {
+      "kernel": "6.6.144",
+      "date": "lts",
+      "android_version": "android15"
     }
   ],
   "6.12": [
@@ -3743,6 +3763,11 @@
     {
       "kernel": "6.18.32",
       "date": "2026-09",
+      "android_version": "android17"
+    },
+    {
+      "kernel": "6.18.33",
+      "date": "lts",
       "android_version": "android17"
     }
   ]
